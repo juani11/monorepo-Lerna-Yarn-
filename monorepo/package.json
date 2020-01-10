@@ -1,7 +1,8 @@
 {
   "private": true,
   "workspaces": [
-    "packages/client/*"
+    "packages/client/*",
+    "packages/server/*"
   ],
   "devDependencies": {
     "lerna": "^3.20.2"
